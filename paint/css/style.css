@@ -1,0 +1,30 @@
+div#bod{ 
+  background-color : #EFEFEF;
+}
+.champ {
+    height:25px;
+    width:50px;
+}
+#btPlus {
+    height:40px;
+    width:50px;
+}
+#btMoins {
+    height:40px;
+    width:50px;
+}
+.text-* {
+	color:blue;
+}
+
+#btGomme {
+	width: 50px;
+    height: 50px;
+	font-size: 30px;
+}
+
+#btLigne {
+	width: 50px;
+    height: 50px;
+	font-size: 30px;
+}
